@@ -1,2 +1,2 @@
 # Rez-Custom-Discord-RPC-maker
-Uses the Discord Visual studio Csharp NuGet DiscordRPC by lachee. Thank you for using!
+Customize your Discord profile with a rich presence displayed below your status. One of my best projects yet lol
